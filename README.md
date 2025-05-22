@@ -1,0 +1,1 @@
+# excel-addin-error-absoluto
