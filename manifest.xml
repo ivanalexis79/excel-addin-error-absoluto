@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/app" xsi:type="TaskPaneApp">
+    <Id>your-addon-id</Id>
+    <Version>1.0</Version>
+    <ProviderName>TuNombre</ProviderName>
+    <DefaultLocale>en-US</DefaultLocale>
+    <DisplayName>Error Absoluto</DisplayName>
+    <Description>Calcula el error absoluto entre dos columnas o filas.</Description>
+    <Hosts>
+        <Host Name="Excel"/>
+    </Hosts>
+    <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>
